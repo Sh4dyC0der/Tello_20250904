@@ -1,0 +1,2 @@
+{"who": "GPT", "action": "fuse-roadmap-checkpoint", "target": "docs/core/*", "when": "2025-09-04T11:11:09.416794", "outcome": "merged"}
+{"who": "GPT", "action": "export_started", "target": "site.zip", "when": "2025-09-04T11:11:09.416794", "outcome": "started"}

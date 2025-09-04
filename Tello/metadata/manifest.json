@@ -1,0 +1,25 @@
+{
+  "version": "2025.09.04",
+  "checkpoint": "checkpoint.v20250904",
+  "exported_at": "2025-09-04T10:38:36.227698",
+  "preset": "site.zip",
+  "blocking": [],
+  "warnings": [],
+  "files": [
+    "/AGENT_MANIFEST.md",
+    "/AGENT_RUNBOOK.md",
+    "/CHANGELOG.md",
+    "/DECISIONS.md",
+    "/docs/core/bootstrap.md",
+    "/docs/core/checkpoint.md",
+    "/docs/core/events.schema.json",
+    "/docs/core/roadmap.md",
+    "/docs/export/policy.md",
+    "/docs/ops/ops.md",
+    "/docs/ui/guidelines.md",
+    "/docs/validation/testing_plan.md",
+    "/docs/validation/testing_plan_smoke.md",
+    "/seeds/README.md",
+    "/tests/README.md"
+  ]
+}

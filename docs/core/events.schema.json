@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Tello Events Schema",
+  "type": "object",
+  "required": [
+    "event",
+    "timestamp",
+    "user_id",
+    "session_id",
+    "payload",
+    "owner"
+  ],
+  "properties": {
+    "event": {
+      "type": "string"
+    },
+    "timestamp": {
+      "type": "string"
+    },
+    "user_id": {
+      "type": "string"
+    },
+    "session_id": {
+      "type": "string"
+    },
+    "payload": {
+      "type": "object"
+    },
+    "owner": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}
